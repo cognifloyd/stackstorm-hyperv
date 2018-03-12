@@ -28,7 +28,7 @@ ACTION_DIRECTORY = "../actions"
 TABLE_TEMPLATE_PATH = "./action_table_template.txt"
 TABLE_FILE_PATH = "./action_table.md"
 # POWERSHELL_LINK_URL_BASE = "https://technet.microsoft.com/en-us/itpro/powershell/windows/addsadministration"  # noqa
-POWERSHELL_LINK_URL_BASE = "https://docs.microsoft.com/en-us/powershell/module/hyper-v/?view=win10-ps" # noqa
+POWERSHELL_LINK_URL_BASE = "https://docs.microsoft.com/en-us/powershell/module/hyper-v/?view=win10-ps"  # noqa
 
 
 def convert_camel_case_to_snake_case(name):
