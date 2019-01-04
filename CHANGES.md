@@ -1,5 +1,9 @@
 # Change Log
 
+## v0.1.4
+
+- Version bump to fix tagging issues
+
 ## v0.1.3
 
 - Converted AD cmdlet to HyperV cmdlet
