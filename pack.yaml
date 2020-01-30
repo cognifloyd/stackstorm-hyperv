@@ -3,12 +3,12 @@ ref: hyperv
 name: hyperv
 description: Microsoft Hyper-V.
 keywords: 
-    - microsoft
-    - ms
-    - hyper-v
-    - hyperv
-    - virtualization
-    - vm
+  - microsoft
+  - ms
+  - hyper-v
+  - hyperv
+  - virtualization
+  - vm
 version: 0.1.4
 author: Encore Technologies
 email: code@encore.tech
